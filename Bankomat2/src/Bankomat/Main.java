@@ -7,6 +7,7 @@ public class Main {
 System.out.println("giciki");
 System.out.println("test");
 
+System.out.println("test");
 	}
 
 }
